@@ -1,0 +1,29 @@
+{
+    "singleQuote": true,
+    "trailingComma": "all",
+    "semi": true,
+    "bracketSameLine": true,
+    "tabWidth": 4,
+    "bracketSpacing": true,
+    "printWidth": 100,
+    "overrides": [
+        {
+            "files": ["*.ts"],
+            "options": {
+                "parser": "typescript"
+            }
+        },
+        {
+            "files": ["*.ts.nunj"],
+            "options": {
+                "parser": "typescript"
+            }
+        },
+        {
+            "files": "*.html",
+            "options": {
+                "parser": "angular"
+            }
+        }
+    ]
+}
