@@ -1,7 +1,3 @@
-Thank you for the clarification! Here's an updated README tailored for a note-taking app:
-
----
-
 # Note-Taking Application - README
 
 ## Overview
@@ -63,7 +59,3 @@ If you wish to contribute to the development of this project, please fork the re
 ## License
 
 This project is licensed under the MIT License. See the LICENSE file for more details.
-
----
-
-Feel free to modify the instructions as needed!
